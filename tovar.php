@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 </head>
 <body>
+<p>hello world!</p>
 <?php
 //require_once 'connection.php'; // подключаем скрипт 
 $host = "localhost"; // адрес сервера 
